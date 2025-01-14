@@ -42,3 +42,4 @@ output_log.*
 *.meta
 *.index
 *.settings
+*.logs
