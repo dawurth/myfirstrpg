@@ -1,0 +1,379 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.31f1 (a206c360e2a8) revision 10618563'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 32195 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 6000.0.31f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/daniel.allan/MyFirstRPG
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+54125
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/daniel.allan/MyFirstRPG
+C:/Users/daniel.allan/MyFirstRPG
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22788]  Target information:
+
+Player connection [22788]  * "[IP] 10.150.66.150 [Port] 0 [Flags] 2 [Guid] 1549106482 [EditorId] 1549106482 [Version] 1048832 [Id] WindowsEditor(7,L22116) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22788] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22788] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 28.28 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.31f1 (a206c360e2a8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.31f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/daniel.allan/MyFirstRPG/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x46a8)
+    Vendor:   Intel
+    VRAM:     16097 MB
+    Driver:   32.0.101.6078
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 6000.0.31f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.31f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.31f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56416
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 6000.0.31f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003479 seconds.
+- Loaded All Assemblies, in  0.499 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.303 seconds
+Domain Reload Profiling: 800ms
+	BeginReloadAssembly (201ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (56ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (198ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (178ms)
+			TypeCache.Refresh (177ms)
+				TypeCache.ScanAssembly (156ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (303ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (257ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (47ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.504 seconds
+Refreshing native plugins compatible for Editor in 11.49 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.428 seconds
+Domain Reload Profiling: 2922ms
+	BeginReloadAssembly (527ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (77ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (140ms)
+	LoadAllAssembliesAndSetupDomain (735ms)
+		LoadAssemblies (821ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (324ms)
+			TypeCache.Refresh (240ms)
+				TypeCache.ScanAssembly (216ms)
+			BuildScriptInfoCaches (68ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1428ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1232ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (747ms)
+			ProcessInitializeOnLoadMethodAttributes (365ms)
+			AfterProcessingInitializeOnLoad (18ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 12.03 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 205 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6523 unused Assets / (4.5 MB). Loaded Objects now: 7201.
+Memory consumption went from 173.1 MB to 168.6 MB.
+Total: 7.314700 ms (FindLiveObjects: 0.471300 ms CreateObjectMapping: 0.418300 ms MarkObjects: 4.549500 ms  DeleteObjects: 1.874600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34251.861992 seconds.
+  path: Assets/Sprites/Tiles/Metal/Synth-Metal_01-256x256.png
+  artifactKey: Guid(6746efa5b274eb14e9cfddd59959faec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Metal/Synth-Metal_01-256x256.png using Guid(6746efa5b274eb14e9cfddd59959faec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5b030b693f13b5cbd57f8029e6bc6a93') in 0.2449203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Sprites/Tiles/Metal/Synth-Metal_11-256x256.png
+  artifactKey: Guid(c89bd889aebc4364f811cfe964966082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Metal/Synth-Metal_11-256x256.png using Guid(c89bd889aebc4364f811cfe964966082) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '693ebfe9ef7713fb8460fb72a9aaddec') in 0.0619656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Sprites/Tiles/Metal/Synth-Metal_14-256x256.png
+  artifactKey: Guid(93ad2446aafcc714ea9ccc7987a995cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Metal/Synth-Metal_14-256x256.png using Guid(93ad2446aafcc714ea9ccc7987a995cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ccc12e3e07391a03695ba6ecd38fe54b') in 0.0393069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.611646 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_01-256x256.png
+  artifactKey: Guid(1db0c703f80d54a4da245ded73f938fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_01-256x256.png using Guid(1db0c703f80d54a4da245ded73f938fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e0a6bad13adac2388466506344451c8d') in 0.03054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_09-256x256.png
+  artifactKey: Guid(0a980cd88d9d9f44492abcf10e2b02bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_09-256x256.png using Guid(0a980cd88d9d9f44492abcf10e2b02bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e54e1e3cb6a44f2e6eb5aab70913683f') in 0.0434827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_08-256x256.png
+  artifactKey: Guid(7a36307c3b9cf734f9f4e499b6aab45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_08-256x256.png using Guid(7a36307c3b9cf734f9f4e499b6aab45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb4cb5224a52982be399eff472cc5a8e') in 0.0755328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_11-256x256.png
+  artifactKey: Guid(19ddb1d582474d34ea8878df003c7cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_11-256x256.png using Guid(19ddb1d582474d34ea8878df003c7cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dbf8f5f74cad9a9c1b85f22f2e148537') in 0.0478513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_05-256x256.png
+  artifactKey: Guid(994e534ccb2999e4c88bba8ee71d92a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_05-256x256.png using Guid(994e534ccb2999e4c88bba8ee71d92a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b692796e1ce628bff738f0364ed57325') in 0.0738771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Sprites/Tiles/Misc/Synth-Misc_16-256x256.png
+  artifactKey: Guid(e0d8b353fd3231645b1023641afa10b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Misc/Synth-Misc_16-256x256.png using Guid(e0d8b353fd3231645b1023641afa10b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '636d09be36bdbc5ed5fee6a396eda78d') in 0.0796473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.578465 seconds.
+  path: Assets/Sprites/Tiles/Stone/Synth-Stone_01-256x256.png
+  artifactKey: Guid(bb63f885330c08d4884c1d47b55ef88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Stone/Synth-Stone_01-256x256.png using Guid(bb63f885330c08d4884c1d47b55ef88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a18dc4b08e46e5c64c5e7b61444b3055') in 0.0307187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Sprites/Tiles/Stone/Synth-Stone_15-256x256.png
+  artifactKey: Guid(8076e3881cb7eb941a9f24b7b9a673d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Stone/Synth-Stone_15-256x256.png using Guid(8076e3881cb7eb941a9f24b7b9a673d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1d33df541765c509168186325085ad7') in 0.0568768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Sprites/Tiles/Stone/Synth-Stone_12-256x256.png
+  artifactKey: Guid(872606fd81eca714099da317035d47ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Stone/Synth-Stone_12-256x256.png using Guid(872606fd81eca714099da317035d47ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '33273ae7edf4c60464c8b81ea6d86b80') in 0.0919433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/Tiles/Stone/Synth-Stone_06-256x256.png
+  artifactKey: Guid(f1ac31ce7da748e45b6be4e7b3439513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Stone/Synth-Stone_06-256x256.png using Guid(f1ac31ce7da748e45b6be4e7b3439513) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '092083788d593c1e31b8c39b16eccdfb') in 0.0410089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/Tiles/Stone/Synth-Stone_04-256x256.png
+  artifactKey: Guid(20e211e2562ef0a4589dd21827c67b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Stone/Synth-Stone_04-256x256.png using Guid(20e211e2562ef0a4589dd21827c67b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5deed2d31211a37ad6f6d8a9e6240873') in 0.0448207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.963690 seconds.
+  path: Assets/Sprites/Tiles/Tree/Synth-Tree_01-256x256.png
+  artifactKey: Guid(43ec4bf63c81ee14a8a6c3109f661553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Tree/Synth-Tree_01-256x256.png using Guid(43ec4bf63c81ee14a8a6c3109f661553) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '607d6611a35f7e410341ee042104dcdf') in 0.0263527 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Sprites/Tiles/Tree/Synth-Tree_09-256x256.png
+  artifactKey: Guid(17bc7977dfb7c2b45a3b42c60888f4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Tree/Synth-Tree_09-256x256.png using Guid(17bc7977dfb7c2b45a3b42c60888f4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9d4b7e94de8718d997a95d855b5adb85') in 0.0562523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Sprites/Tiles/Tree/Synth-Tree_05-256x256.png
+  artifactKey: Guid(e06f515f7e893a94b9e2067d438722f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Tree/Synth-Tree_05-256x256.png using Guid(e06f515f7e893a94b9e2067d438722f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f2c19155f7b3cc896bddfb64cb80824') in 0.0699579 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Sprites/Tiles/Tree/Synth-Tree_13-256x256.png
+  artifactKey: Guid(b7b3c9031a294ac48850e7ee8dc10ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Tree/Synth-Tree_13-256x256.png using Guid(b7b3c9031a294ac48850e7ee8dc10ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c9ae72806d11f6e445c71c93293562f') in 0.0555111 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Sprites/Tiles/Tree/Synth-Tree_08-256x256.png
+  artifactKey: Guid(4c592bf60ddfbbb489d3016afc049b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Tree/Synth-Tree_08-256x256.png using Guid(4c592bf60ddfbbb489d3016afc049b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fcb12a92c37e51d7d10747d3a93c7efc') in 0.0690749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.482192 seconds.
+  path: Assets/Sprites/Tiles/Wood/Synth-Wood_01-256x256.png
+  artifactKey: Guid(0fc46749010c1e842b70a12c6b43eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wood/Synth-Wood_01-256x256.png using Guid(0fc46749010c1e842b70a12c6b43eb9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c22ca1a194397dc65f07ad757d458ba9') in 0.0307208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Sprites/Tiles/Wood/Synth-Wood_14-256x256.png
+  artifactKey: Guid(ef0d41baf633cd143b51ea4976612b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wood/Synth-Wood_14-256x256.png using Guid(ef0d41baf633cd143b51ea4976612b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '41cc08b35f266a528c3e75d6838aea97') in 0.0348608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprites/Tiles/Wood/Synth-Wood_04-256x256.png
+  artifactKey: Guid(1ed416af8dd19674bbc60b482a333e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wood/Synth-Wood_04-256x256.png using Guid(1ed416af8dd19674bbc60b482a333e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73f4588a4a3283e955e0dadacdfe4784') in 0.0695735 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Tiles/Wood/Synth-Wood_15-256x256.png
+  artifactKey: Guid(1cdc034065f1d5f4dac3b00cc7ef69c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wood/Synth-Wood_15-256x256.png using Guid(1cdc034065f1d5f4dac3b00cc7ef69c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7e17022bcbdf0c3cd8b81e3037828856') in 0.0468591 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Sprites/Tiles/Wood/Synth-Wood_05-256x256.png
+  artifactKey: Guid(b6bce31aba9f87c48b33266750096201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Tiles/Wood/Synth-Wood_05-256x256.png using Guid(b6bce31aba9f87c48b33266750096201) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd277618fbba75ceed41e2606ab2b1271') in 0.0606268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
